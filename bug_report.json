@@ -1,1 +1,19 @@
-
+{
+  "id":"001",
+  "summary":"Can't send the email. Button 'send' is inactive",
+  "environment":"PC Windows 10, Google Chrom v 101.0.4951.41",
+  "precondisions":"autorisation in email",
+  "steps":
+  [
+    "1. Push button 'write'",
+    "2. Insert receiver email in 'whom' field",
+    "3. Write the message",
+    "4. Push button 'send'"
+  ],
+  "expected result":"The letter sent sucsessfully. Window shows the message 'send'",
+  "actual result":"Can't send the email. Button 'send' is inactive",
+  "priority":"P1",
+  "severity":"S1",
+  "assign":"Email developer"
+}
+  
