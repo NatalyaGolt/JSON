@@ -4,7 +4,7 @@
   
 - Перейти на вкладку репозиториев
   
-  <img src="Repositories.png" alt="Repositories" align=center>
+  <img src="https://disk.yandex.ru/i/UsxEXsECAQNE3Q" alt="Repositories" align=center>
   
 - Создать новый репозиторий
   
