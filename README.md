@@ -23,7 +23,7 @@
 ### 2. Клонировать репозиторий JSON на локальный компьютер
     git clone https://github.com/NatalyaGolt/JSON.git
 ### 3. Внутри локального JSON создать файл “new.json”
-    git clone https://github.com/NatalyaGolt/JSON.git
+    touch XML/new.json
 ### 4. Добавить файл под гит
     cd JSON
     git add new.json
