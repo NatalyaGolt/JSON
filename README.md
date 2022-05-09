@@ -4,7 +4,7 @@
   
 - Перейти на вкладку репозиториев
   
-  <img src="https://1.downloader.disk.yandex.ru/preview/9f50482d806f9d83a6cd1f87fad35f86239759470050468d77144f55ae49990e/inf/CUDKqTwaJe4hf9dMTxVsfE8qzhPSJypVPykKtg9OjXySsw9wVa9prnVU6EhyoU_mFA2nWtP0yjC5pxyJhyhfIA%3D%3D?uid=40883143&filename=Repositories.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=40883143&tknv=v2&size=1318x628" alt="Repositories" align=center>
+  <img src="https://s423vla.storage.yandex.net/rdisk/c8d8a490b7852a3bb59b898aa02a9e8daba6ae4009fcbf913cd729d95b671a39/6278e991/n0TScqWseOyzBp-7ZA_dB2n_IK8veAokzB1anpQ3lDdz3FSh5bP7l4ALRt6OkEGDw4KXrDxBygXQrFT9E8NOgQ==?uid=40883143&filename=Repositories.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=40883143&fsize=768&hid=b97d3d461c479938ff91b6a1552f236f&media_type=image&tknv=v2&etag=740d48d50cec357e4154d8f2d5b916e4&rtoken=3tOwzhx77wkv&force_default=yes&ycrid=na-ab780c361c53d7adbeec9407f9d58a73-downloader16f&ts=5de9179f0c640&s=1658e2ced26ab5ebae0f32c7c4ff4005e00e3bbdfa7dfeb4a048b41dee01789a&pb=U2FsdGVkX18lxAD6jTIoiNdj0EWxPmdFtrEB16MNle1Bvuzx2MnWS6-tZiwQB4gQfPY4Ol2fXgZGZEx6vMScM47M30mbEaaf6GGQHpMOlow" alt="Repositories" align=center>
   
 - Создать новый репозиторий
   
