@@ -68,7 +68,7 @@
             "skill3":"Autotests in Postman"
     }
 
-    esc - выход из режима реадактирования
+    esc - выход из режима редактирования
 
     :wq - возврат к командной строке
 ### 12. Отправить сразу 2 файла на внешний репозиторий
@@ -92,11 +92,11 @@
 ### 15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON
 - На внешнем репозитории выбрать файл bug_report.json 
   
-<img src="https://s340vla.storage.yandex.net/rdisk/4515bc1ea1d5a288ce2f9cae8c34c1644d46b5d7a79749ca397b95634130996f/6278eab6/n0TScqWseOyzBp-7ZA_dBw6fVram2l8kb0Vo99nCn7ugFxdXIU_UxKYB52l4aoSPhF_cGyXVkfw4CyBejx0TRQ==?uid=40883143&filename=File%20bug_report.json.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=40883143&fsize=865&hid=6976dd732eb19e7b99a3cafdf26488b3&media_type=image&tknv=v2&etag=a0918b6dfaa992b1797a7321e4901ad1&rtoken=kNc8ZkjN0P0X&force_default=yes&ycrid=na-910b04930a35c59f33eb3aab7af05a4b-downloader16e&ts=5de918b679980&s=c1d3acc8b4ac4ddf415edd6db75837a65631b256d1f445fa6c72fa8b0fce1580&pb=U2FsdGVkX1-s5FLbV5bCRg4OZRawJLsI5WpQcxQSya9TN6TOZuQY4CavHz6uocPq470lhcMIdO6xv6dZqgjEo-2j-xfNdidT4DgiMkIzlYs" alt="File bug_report.json" align=center>
+  <img src="https://s340vla.storage.yandex.net/rdisk/4515bc1ea1d5a288ce2f9cae8c34c1644d46b5d7a79749ca397b95634130996f/6278eab6/n0TScqWseOyzBp-7ZA_dBw6fVram2l8kb0Vo99nCn7ugFxdXIU_UxKYB52l4aoSPhF_cGyXVkfw4CyBejx0TRQ==?uid=40883143&filename=File%20bug_report.json.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=40883143&fsize=865&hid=6976dd732eb19e7b99a3cafdf26488b3&media_type=image&tknv=v2&etag=a0918b6dfaa992b1797a7321e4901ad1&rtoken=kNc8ZkjN0P0X&force_default=yes&ycrid=na-910b04930a35c59f33eb3aab7af05a4b-downloader16e&ts=5de918b679980&s=c1d3acc8b4ac4ddf415edd6db75837a65631b256d1f445fa6c72fa8b0fce1580&pb=U2FsdGVkX1-s5FLbV5bCRg4OZRawJLsI5WpQcxQSya9TN6TOZuQY4CavHz6uocPq470lhcMIdO6xv6dZqgjEo-2j-xfNdidT4DgiMkIzlYs" alt="File bug_report.json" align=center>
 
 - Нажать кнопку редактирования файла
 
-<img src="https://s787sas.storage.yandex.net/rdisk/4f42f21173794c3fabe013fc93b51e820dee674f24ea88eb8e75f5613dfa709d/6278eacb/n0TScqWseOyzBp-7ZA_dBy-a1Llseg5KRXIusOpst4EkTeZmzL0yU01OGL2gPuOwGBke_r1B274NFdifsJux6A==?uid=40883143&filename=Edit%20this%20file.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=40883143&fsize=1182&hid=3f86403e237cbedba749a33d2a8b01c5&media_type=image&tknv=v2&etag=ba48ba0e2a475b152ed3bb7c10dd098e&rtoken=sLH3zo290hXR&force_default=yes&ycrid=na-f0b72f88728538b816c33fb0ca363093-downloader16e&ts=5de918ca808c0&s=e31b005e2a61ecf90faf09a9594c8146e51c3055386b3c3a46f02a5dcbee1267&pb=U2FsdGVkX18agH8CUuMFDOs6cxjXdt6c3U0ACAqwpasJbyi13Uy5GTu7inX1parFTDmihq7zyO3h1e0eLzuqj627kepiOWE-TehmMAgLfII" alt="Edit this file" align=center>
+  <img src="https://s787sas.storage.yandex.net/rdisk/4f42f21173794c3fabe013fc93b51e820dee674f24ea88eb8e75f5613dfa709d/6278eacb/n0TScqWseOyzBp-7ZA_dBy-a1Llseg5KRXIusOpst4EkTeZmzL0yU01OGL2gPuOwGBke_r1B274NFdifsJux6A==?uid=40883143&filename=Edit%20this%20file.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=40883143&fsize=1182&hid=3f86403e237cbedba749a33d2a8b01c5&media_type=image&tknv=v2&etag=ba48ba0e2a475b152ed3bb7c10dd098e&rtoken=sLH3zo290hXR&force_default=yes&ycrid=na-f0b72f88728538b816c33fb0ca363093-downloader16e&ts=5de918ca808c0&s=e31b005e2a61ecf90faf09a9594c8146e51c3055386b3c3a46f02a5dcbee1267&pb=U2FsdGVkX18agH8CUuMFDOs6cxjXdt6c3U0ACAqwpasJbyi13Uy5GTu7inX1parFTDmihq7zyO3h1e0eLzuqj627kepiOWE-TehmMAgLfII" alt="Edit this file" align=center>
 
 - Написать баг репорт в формате json
 
