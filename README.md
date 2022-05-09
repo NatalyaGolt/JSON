@@ -4,7 +4,7 @@
   
 - Перейти на вкладку репозиториев
   
-  <img src="https://disk.yandex.ru/i/UsxEXsECAQNE3Q" alt="Repositories" align=center>
+  <img src="https://1.downloader.disk.yandex.ru/preview/9f50482d806f9d83a6cd1f87fad35f86239759470050468d77144f55ae49990e/inf/CUDKqTwaJe4hf9dMTxVsfE8qzhPSJypVPykKtg9OjXySsw9wVa9prnVU6EhyoU_mFA2nWtP0yjC5pxyJhyhfIA%3D%3D?uid=40883143&filename=Repositories.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=40883143&tknv=v2&size=1318x628" alt="Repositories" align=center>
   
 - Создать новый репозиторий
   
