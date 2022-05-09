@@ -100,7 +100,7 @@
 
 - Написать баг репорт в формате json
 
-<img src="https://s381vla.storage.yandex.net/rdisk/7a21e8c5ec613fbbc6aa96eb6fa1b71d73a5714cc7547d8b632890f4b8dff89a/6278eadf/n0TScqWseOyzBp-7ZA_dBwD2pz0T7wK3iEfSA9t0WNg0L-D5m9KZq65llkZ5rovD2Uy8tBdqp-wxxBL4yRMzYw==?uid=40883143&filename=Bug%20report.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=40883143&fsize=22977&hid=c3f4e0144319f8b0fb53729cc781b8c6&media_type=image&tknv=v2&etag=8f2a6f77302d0dc4aec35125c31a8275&rtoken=CTCEr6HsZbs5&force_default=yes&ycrid=na-784b549fc2cd625d29ed8c421bf5d107-downloader16e&ts=5de918dd935c0&s=39d9ae46b9ec9e2d957bf20efcfa9d7aebc78186ead58465ec9daf0570634646&pb=U2FsdGVkX18ETG4orxhRhzJhMWsf1Y-VwIWbvjfer87tVFR2ITzmMh3jeDOVsEVSUI55d2KKJ7jMse2QONG-6x2LnCSIVv-l3s-2e3xXM5I" alt="Bug report" align=center>
+  <img src="https://s381vla.storage.yandex.net/rdisk/7a21e8c5ec613fbbc6aa96eb6fa1b71d73a5714cc7547d8b632890f4b8dff89a/6278eadf/n0TScqWseOyzBp-7ZA_dBwD2pz0T7wK3iEfSA9t0WNg0L-D5m9KZq65llkZ5rovD2Uy8tBdqp-wxxBL4yRMzYw==?uid=40883143&filename=Bug%20report.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=40883143&fsize=22977&hid=c3f4e0144319f8b0fb53729cc781b8c6&media_type=image&tknv=v2&etag=8f2a6f77302d0dc4aec35125c31a8275&rtoken=CTCEr6HsZbs5&force_default=yes&ycrid=na-784b549fc2cd625d29ed8c421bf5d107-downloader16e&ts=5de918dd935c0&s=39d9ae46b9ec9e2d957bf20efcfa9d7aebc78186ead58465ec9daf0570634646&pb=U2FsdGVkX18ETG4orxhRhzJhMWsf1Y-VwIWbvjfer87tVFR2ITzmMh3jeDOVsEVSUI55d2KKJ7jMse2QONG-6x2LnCSIVv-l3s-2e3xXM5I" alt="Bug report" align=center>
 
 ### 16.  Сделать Commit changes (сохранить) изменения на веб интерфейсе
 Нажать кнопку Закоммитить изменения
