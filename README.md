@@ -4,7 +4,7 @@
   
 - Перейти на вкладку репозиториев
   
-  <img src="https://onedrive.live.com/?id=705b428c3efe61f8!0%2aL0xpdmVGb2xkZXJzL9C00LvRjyDRg9GH0LXQsdGLL1JlcG9zaXRvcmllcy5wbmc" alt="Repositories">
+  <img src="https://drive.google.com/file/d/1NvMDf9QcDfSbFRNoJDa6LIRVGrFtzleD/view" alt="Repositories">
   
 - Создать новый репозиторий
   
