@@ -111,36 +111,36 @@
 
 - Написать баг репорт в формате json
 
-   {
-    "id":"001",
-    "summary":"Can't send the email. Button 'send' is inactive",
-    "environment":"PC Windows 10, Google Chrome v 101.0.4951.41",
-    "precondisions":"autorisation in email",
-    "steps":
-    [
-      "1. Push button 'write'",
-      "2. Insert receiver email in 'whom' field",
-      "3. Write the message",
-      "4. Push button 'send'"
-    ],
-    "expected result":
-    [
-      "1. Letter window is opened",
-      "2. Can add an adress",
-      "3. Can write the message",
-      "4. The letter sent sucsessfully. Window shows the message 'sent'"
-    ],
-    "actual result":
-     [
-      "1. Letter window is opened",
-      "2. Can add an adress",
-      "3. Can write the message",
-      "4. Can't send the email. Button 'send' is inactive"
-     ],
-    "priority":"P1",
-    "severity":"S1",
-    "assign":"Email developer"
-  }
+     {
+      "id":"001",
+      "summary":"Can't send the email. Button 'send' is inactive",
+      "environment":"PC Windows 10, Google Chrome v 101.0.4951.41",
+      "precondisions":"autorisation in email",
+      "steps":
+      [
+        "1. Push button 'write'",
+        "2. Insert receiver email in 'whom' field",
+        "3. Write the message",
+        "4. Push button 'send'"
+      ],
+      "expected result":
+      [
+        "1. Letter window is opened",
+        "2. Can add an adress",
+        "3. Can write the message",
+        "4. The letter sent sucsessfully. Window shows the message 'sent'"
+      ],
+      "actual result":
+       [
+        "1. Letter window is opened",
+        "2. Can add an adress",
+        "3. Can write the message",
+        "4. Can't send the email. Button 'send' is inactive"
+       ],
+      "priority":"P1",
+      "severity":"S1",
+      "assign":"Email developer"
+    }
 
 ### 16.  Сделать Commit changes (сохранить) изменения на веб интерфейсе
 Нажать кнопку Закоммитить изменения
