@@ -15,7 +15,7 @@
     "1. Letter window is opened",
     "2. Can add an adress",
     "3. Can write the message",
-    "4. The letter sent sucsessfully. Window shows the message 'send'"
+    "4. The letter sent sucsessfully. Window shows the message 'sent'"
   ],
   "actual result":
    [
