@@ -4,7 +4,7 @@
   
 - Перейти на вкладку репозиториев
   
-  <img src="https://1drv.ms/u/s!Avhh_j6MQltwg2aBqIFyiPW5zZUi?e=i7unaC" alt="Repositories">
+  <img src="https://onedrive.live.com/?id=705b428c3efe61f8!0%2aL0xpdmVGb2xkZXJzL9C00LvRjyDRg9GH0LXQsdGLL1JlcG9zaXRvcmllcy5wbmc" alt="Repositories">
   
 - Создать новый репозиторий
   
