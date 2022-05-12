@@ -4,13 +4,13 @@
   
 - Перейти на вкладку репозиториев 
 
-
-|Repositories|
-|------------|
+  |Repositories|
+  |------------|
   
 - Создать новый репозиторий
   
-  <img src="https://s830sas.storage.yandex.net/rdisk/37dc21c7ab39863bd0ee93fafb3315dcf7cb32aee4b90c7f0c3f3486ed4208ef/6278e9d3/n0TScqWseOyzBp-7ZA_dB51dqgMnJDv1Ide0leg49PAiYOesVCS87xj9sDMba3EzUp2G5kMq6yMLVclQejMdtA==?uid=40883143&filename=New.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=40883143&fsize=1048&hid=b71f21d4490560f726a39ac65d6570dc&media_type=image&tknv=v2&etag=17e05d322158184803baacf6a195cf56&rtoken=ll722jmOCPvX&force_default=yes&ycrid=na-a70aa1fe59686f99f1ba03ffb763f133-downloader16f&ts=5de917ddfdac0&s=62784f0a7638aeb3ab14e796dd771dfa213b26e718c92a6ec7104bcdd0463aaf&pb=U2FsdGVkX18ylrjIVqiT8In28AuKUc5MwPpfoSPi4RGTFeW5YyVFF7vSCUPcJx82biRraVAvQ0EdGcdk4Vr459Ld3E7bD-9SVxfrGoDz9_8" alt="New" align=center>
+  |New|
+  |---|
   
 - Ввести имя репозитория
   
