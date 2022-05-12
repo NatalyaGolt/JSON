@@ -3,10 +3,10 @@
 - Перейти в [профиль github](https://github.com/NatalyaGolt, "NatalyaGolt github profile")
   
 - Перейти на вкладку репозиториев 
+
+
 |Repositories|
 |------------|
-  
-  <img src="https://drive.google.com/file/d/1NvMDf9QcDfSbFRNoJDa6LIRVGrFtzleD/view" alt="Repositories">
   
 - Создать новый репозиторий
   
