@@ -31,8 +31,7 @@
 ### 3. Внутри локального JSON создать файл “new.json”
     touch XML/new.json
 ### 4. Добавить файл под гит
-    cd JSON
-    git add new.json
+    cd JSON && git add new.json
 ### 5. Закоммитить файл
     git commit -m "add new.json"
 ### 6. Отправить файл на внешний GitHub репозиторий
